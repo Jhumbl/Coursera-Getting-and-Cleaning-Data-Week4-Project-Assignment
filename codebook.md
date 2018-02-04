@@ -16,7 +16,7 @@ The subjects were labelled sequentially from one to thirty.
 
 ## Summary data contains 68 variables:
 
-* "activitylabel"
+* "activity"
 * "subject"
 * "tBodyAcc-mean()-X"
 * "tBodyAcc-mean()-Y"
